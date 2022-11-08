@@ -1,4 +1,5 @@
-# Tässä on otsikko
+# Ohjelmistotekniikka, harjoitustyö
+## Tehtävät
+## Viikko 1
 
-Ja tänne voi sitten kirjoittaa vaikkapa **boldattuna** tai 
-*kursiivilla*.
+[gitlog.txt](https://github.com/pekapola/ot-harjoitustyo/blob/6ded2812f02b7f60154e81e9fbfb171712fbddcd/laskarit/viikko1/gitlog.txt).
